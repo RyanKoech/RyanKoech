@@ -48,5 +48,5 @@
 
 </details>
 
-[linkedin]: (https://www.linkedin.com/in/ryan-koech-7ba340209/){:target="_blank"}
+[linkedin]: https://www.linkedin.com/in/ryan-koech-7ba340209/ {:target="_blank"}
 
