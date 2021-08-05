@@ -38,6 +38,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/RyanKoech/demo_repo/pull/1) in [RyanKoech/demo_repo](https://github.com/RyanKoech/demo_repo)
+2. 💪 Opened PR [#1](https://github.com/RyanKoech/demo_repo/pull/1) in [RyanKoech/demo_repo](https://github.com/RyanKoech/demo_repo)
 <!--END_SECTION:activity-->
 
 </details>
