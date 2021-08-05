@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://raw.githubusercontent.com/RyanKoech/RyanKoech/master/.github/images/Linkedin-Logo.png" target="_blank"/>][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://raw.githubusercontent.com/RyanKoech/RyanKoech/master/.github/images/Linkedin-Logo.png" />][linkedin]
 
 <br />
 <br />
@@ -48,5 +48,5 @@
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/ryan-koech-7ba340209/
+[linkedin]: (https://www.linkedin.com/in/ryan-koech-7ba340209/){:target="_blank"}
 
