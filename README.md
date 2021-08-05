@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://raw.githubusercontent.com/RyanKoech/RyanKoech/master/.github/images/Linkedin-Logo.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://raw.githubusercontent.com/RyanKoech/RyanKoech/master/.github/images/Linkedin-Logo.png" />](https://www.linkedin.com/in/ryan-koech-7ba340209/){target="_blank"}
 
 <br />
 <br />
