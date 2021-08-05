@@ -5,12 +5,15 @@
 - 🌱 I’m currently learning more advanced JavaScript Concepts
 - 🥅 2021 Goals: Learn, build and gain more exprience all round
 
+---
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://raw.githubusercontent.com/RyanKoech/RyanKoech/master/.github/images/Linkedin-Logo.png" />][linkedin]
 
 <br />
+<br />
+---
 
 ### Languages and Tools:
 
