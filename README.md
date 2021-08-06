@@ -37,16 +37,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKoech&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RyanKoech/demo_repo/pull/1) in [RyanKoech/demo_repo](https://github.com/RyanKoech/demo_repo)
-2. 💪 Opened PR [#1](https://github.com/RyanKoech/demo_repo/pull/1) in [RyanKoech/demo_repo](https://github.com/RyanKoech/demo_repo)
-<!--END_SECTION:activity-->
-
-</details>
-
+ 
 [linkedin]: https://www.linkedin.com/in/ryan-koech-7ba340209/?target=_blank
 
