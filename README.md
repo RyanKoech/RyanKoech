@@ -78,7 +78,7 @@
 <br />
 
 ---
-<p align="left"><h3 align="left">  Hope you what you was looking for😁. Good day👋!</h3></p>  
+<p align="left"><h3 align="left">  Hope you found what you was looking for😁. Good day👋!</h3></p>  
 
 
   
