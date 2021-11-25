@@ -69,7 +69,7 @@
   <tr>
     <td>
       <!--Stats-->
-      <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=RyanKoech&show_icons=true&theme=tokyonight"/>
+      <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=RyanKoech&show_icons=true&count_private=true&theme=tokyonight"/>
     </td>
   </tr>
 </table>
