@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td>
-       <!--Stats-->
+        <!--Streak-->
         <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanKoech&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
     </td>
     <td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>
-      <!--Streak-->
+      <!--Stats-->
       <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=RyanKoech&show_icons=true&theme=tokyonight"/>
     </td>
   </tr>
