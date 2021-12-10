@@ -32,26 +32,36 @@
 
 ---
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://mk0sigezamu77feo2fi6.kinstacdn.com/wp-content/uploads/2017/07/logo_500x500.png" />
-<img align="left" alt="React" width="26px" src="https://reactnative.dev/img/header_logo.svg" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/RyanKoech/RyanKoech/master/.github/images/Github-Logo.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 
 
 <br />
 <br />
 
 ---
-
+### Tools & FrameWorks:
+  
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/RyanKoech/RyanKoech/master/.github/images/Github-Logo.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="React" width="26px" src="https://reactnative.dev/img/header_logo.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
+  
+<br />
+<br />
+---
 
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanKoech&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKoech&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
