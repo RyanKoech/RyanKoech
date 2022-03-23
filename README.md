@@ -1,8 +1,6 @@
 <h1 align="center"> Welcome Friend👋</h1>
 
-<p align="center">
-  <img align="top" src="https://badges.pufler.dev/visits/RyanKoech/RyanKoech"/>++
-</p>
+<br/>
 
 <h2 align="center">Feel Free </h2>
 
