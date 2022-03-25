@@ -28,11 +28,11 @@
   <tr>
     <td>
       <!--Stats-->
-      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RyanKoech&show_icons=true&count_private=true&theme=tokyonight"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyanKoech&show_icons=true&count_private=true&theme=tokyonight"/>
     </td>
     <td>
       <!--Languages -->
-      <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanKoech&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanKoech&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
     </td>
   </tr>
 </table>
