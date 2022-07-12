@@ -2,6 +2,11 @@
 
 <br/>
 
+#### POV: Your listening to HOME - Resonance
+<div id="header" align="center">
+  <img src ="./assets/retrocity.gif" width="100%">
+  </div>
+
 <h2 align="center">Feel Free </h2>
 
 <p align="center">
