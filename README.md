@@ -5,7 +5,7 @@
 #### POV: Your listening to HOME - Resonance
 <div id="header" align="center">
   <img src ="./assets/retrocity.gif" width="100%">
-  </div>
+</div>
 
 <h2 align="center">Feel Free </h2>
 
@@ -39,6 +39,12 @@
 <!-- JS --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
   
 <!-- Kotlin --> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" title="Kotlin" /></a>
+  
+<!-- Android --> <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="36" height="36" alt="Android" title="Android" /></a>
+  
+<!-- Dart --> <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" title="Dart" /></a>
+  
+<!-- Flutter --> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" title="Flutter" /></a>
   
 <!-- PHP --> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" /></a>
   
