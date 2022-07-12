@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome Friend👋</h1>
+<h1 align="center"> Welcome Mate!👋</h1>
 
 <br/>
 
