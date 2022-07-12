@@ -108,7 +108,10 @@
 <br />
 
 ---
-<p align="left"><h3 align="left">Good day!</h3></p>  
+<p align="left">
+  <h3 align="left">Till next time!</h3>
+  <img src ="./assets/retrocoding.gif" width="400px">
+</p>  
 
 
   
