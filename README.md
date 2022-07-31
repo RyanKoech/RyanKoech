@@ -2,7 +2,7 @@
 
 <br/>
 
-#### POV: You're listening to HOME - Resonance
+#### POV: You're listening to [HOME - Resonance](https://www.youtube.com/watch?v=8GW6sLrK40k)
 <div id="header" align="center">
   <img src ="./assets/retrocity.gif" width="100%">
 </div>
