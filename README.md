@@ -100,7 +100,7 @@
    
 <p align="center">
   <!--Languages -->
-  <img align="top" src="https://readme-stats.clckblog.space/api/top-langs/?username=RyanKoech&langs_count=8&layout=compact&theme=tokyonight"/>
+  <img align="top" src="https://readme-stats.clckblog.space/api/top-langs/?username=RyanKoech&langs_count=8&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
 </p>
 
 <br />
